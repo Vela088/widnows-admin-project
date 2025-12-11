@@ -1,0 +1,5 @@
+PC-07
+Dominio o grupo de trabajo: WORKGROUP
+DIreccion IP: 192.168.1.1
+Versión del SO: Windows 11 pro
+RAM instalada: 16 GB
